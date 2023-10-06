@@ -32,9 +32,9 @@ Para explorar o projeto e suas análises, siga as instruções abaixo:
 4. **Leia as Explicações:** Dentro dos notebooks, você encontrará explicações detalhadas sobre cada etapa da análise, incluindo interpretações dos gráficos e resultados estatísticos.
 
 ## Equipe
-- [Iuri Soares]
-- [Mariana Tinouco ]
-- [Miguel Melo]
+- Iuri Soares
+- Mariana Tinouco
+- Miguel Melo
 
 ## Contribuições
 
