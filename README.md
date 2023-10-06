@@ -1,4 +1,4 @@
-# Analise de carteira de investimentos - Avaliação 1
+# Análise de carteira de investimentos - Avaliação 1
 
 ## Introdução
 Este repositório contém o trabalho em grupo, feito para a Avaliação 1 da disciplina de Programação Financeira. O objetivo deste trabalho é realizar uma análise de carteira de investimentos com base em dados históricos de ações, buscando a diversificação entre as empresas. E após compará-la com o desempenho de uma carteira montada por índice Ibovespa, Vale, e Petrobras. Por meio da análise demonstramos questões como a concentração no IBOV, e as diferenças de resultados das carteiras diversificadas, e não-diversificadas .
